@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 char name={"TREE"};
@@ -27,5 +26,5 @@ printf("\n the branches of the tree is:");
 }
 printf("\n the thickness of the tree is:");
 }
-getch()
+
 }
