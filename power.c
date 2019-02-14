@@ -12,9 +12,9 @@ int main()
 	}
 	if(y==rev)
 	{
-		printf("\nPalindrome");
+		printf("\nyes");
 		}
 		else
-			printf("\nNot a palindrome");
+			printf("\nNo");
 	return 0;
 }
